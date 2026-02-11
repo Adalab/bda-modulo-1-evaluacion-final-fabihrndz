@@ -1,2 +1,12 @@
-# bda-modulo-1-evaluacion-final-fabihrndz
-bda-modulo-1-evaluacion-final-fabihrndz created by GitHub Classroom
+Evaluación TiendaOnline
+Creación de una clase TiendaOnline en python
+
+Gestiona el inventario y las ventas
+
+Usando:
+- Clases
+- Listas
+- Diccionarios
+- Bucles
+- Condicionales
+- Funciones
